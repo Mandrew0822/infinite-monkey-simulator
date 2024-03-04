@@ -10,6 +10,8 @@ The Infinite Monkey Theorem states that a monkey hitting keys at random on a typ
 
 In this program, we simulate multiple monkeys typing randomly. Each monkey types a random character every nanosecond. The program prints out the last character each monkey wrote and the time elapsed since the start of the program.
 
+[Learn more](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
+
 ## Features
 
 - Simulates multiple monkeys typing randomly.
