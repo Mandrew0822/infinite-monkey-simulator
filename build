@@ -1,0 +1,11 @@
+#!/bin/bash 
+
+echo "Compiling..."
+cc -o monkeys monkeys.c 
+
+echo "Moving executable"
+sudo cp monkeys /usr/local/bin
+
+cd ..
+
+echo "Done! :)"
