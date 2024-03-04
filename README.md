@@ -40,6 +40,13 @@ monkeys 10 1m
 
     git clone https://github.com/Mandrew0822/monkeys.git
     cd monkeys
+    chmod +x build
     ./build
+    
+or use the makefile
+
+    git clone https://github.com/Mandrew0822/monkeys.git
+    cd monkeys
+    make
 
 
