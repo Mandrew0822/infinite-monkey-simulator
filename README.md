@@ -1,5 +1,3 @@
-![alt text](https://github.com/Mandrew0822/monkeys/blob/master/monkey.jpeg)
-
 # Infinite Monkeys Theorem Simulation
 
 This program simulates the Infinite Monkey Theorem, a popular thought experiment in probability theory and statistics.
